@@ -1,7 +1,7 @@
 # Dean Morgan 👋
 Full Stack web developer specialising in Laravel, based in Newcastle.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanzod&theme=nord&show_icons=true&count_private=true)](https://github.com/deanzod/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanzod&theme=nord&show_icons=true&count_private=true)
 
 
 
